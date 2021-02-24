@@ -1,0 +1,35 @@
+"D:\EGYETEM\II. Félév\adatsz és\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "D:\EGYETEM\II. Félév\Feladatok\DSA_MiklosNandor_AUT_C\feladat0"
+-- The C compiler identification is GNU 8.1.0
+-- Check for working C compiler: D:/EGYETEM/CodeBlocks/MinGW/bin/gcc.exe
+-- Check for working C compiler: D:/EGYETEM/CodeBlocks/MinGW/bin/gcc.exe - broken
+CMake Error at D:/EGYETEM/II. FĂ©lĂ©v/adatsz Ă©s/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/CMakeTestCCompiler.cmake:60 (message):
+  The C compiler
+
+    "D:/EGYETEM/CodeBlocks/MinGW/bin/gcc.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: D:/EGYETEM/II. FĂ©lĂ©v/Feladatok/DSA_MiklosNandor_AUT_C/feladat0/cmake-build-debug/CMakeFiles/CMakeTmp
+    
+    Run Build Command(s):D:/EGYETEM/CodeBlocks/MinGW/bin/mingw32-make.exe cmTC_254e0/fast && D:/EGYETEM/CodeBlocks/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_254e0.dir\build.make CMakeFiles/cmTC_254e0.dir/build
+    mingw32-make.exe[1]: Entering directory 'D:/EGYETEM/II. FĂšlĂšv/Feladatok/DSA_MiklosNandor_AUT_C/feladat0/cmake-build-debug/CMakeFiles/CMakeTmp'
+    process_begin: CreateProcess(NULL, "D:\EGYETEM\II. Fâ”śÄ™lâ”śÄ™v\adatsz â”śÄ™s\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E cmake_echo_color --switch= "--progress-dir=D:\EGYETEM\II. Fâ”śÄ™lâ”śÄ™v\Feladatok\DSA_MiklosNandor_AUT_C\feladat0\cmake-build-debug\CMakeFiles\CMakeTmp\CMakeFiles" --progress-num=1 "Building C object CMakeFiles/cmTC_254e0.dir/testCCompiler.c.obj", ...) failed.
+    make (e=2): A rendszer nem talĂźlja a megadott fĂźjlt.
+    mingw32-make.exe[1]: *** [CMakeFiles\cmTC_254e0.dir\build.make:84: CMakeFiles/cmTC_254e0.dir/testCCompiler.c.obj] Error 2
+    mingw32-make.exe[1]: Leaving directory 'D:/EGYETEM/II. FĂšlĂšv/Feladatok/DSA_MiklosNandor_AUT_C/feladat0/cmake-build-debug/CMakeFiles/CMakeTmp'
+    mingw32-make.exe: *** [Makefile:140: cmTC_254e0/fast] Error 2
+    
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "D:/EGYETEM/II. FĂ©lĂ©v/Feladatok/DSA_MiklosNandor_AUT_C/feladat0/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "D:/EGYETEM/II. FĂ©lĂ©v/Feladatok/DSA_MiklosNandor_AUT_C/feladat0/cmake-build-debug/CMakeFiles/CMakeError.log".
