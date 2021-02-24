@@ -1,0 +1,26 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: D:/EGYETEM/II. Félév/Feladatok/DSA_MiklosNandor_AUT_C/lab2/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/EGYETEM/CodeBlocks/MinGW/bin/mingw32-make.exe cmTC_97b3a/fast && D:/EGYETEM/CodeBlocks/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_97b3a.dir\build.make CMakeFiles/cmTC_97b3a.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/EGYETEM/II. FÚlÚv/Feladatok/DSA_MiklosNandor_AUT_C/lab2/cmake-build-debug/CMakeFiles/CMakeTmp'
+process_begin: CreateProcess(NULL, "D:\EGYETEM\II. F├ęl├ęv\adatsz ├ęs\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E cmake_echo_color --switch= "--progress-dir=D:\EGYETEM\II. F├ęl├ęv\Feladatok\DSA_MiklosNandor_AUT_C\lab2\cmake-build-debug\CMakeFiles\CMakeTmp\CMakeFiles" --progress-num=1 "Building C object CMakeFiles/cmTC_97b3a.dir/testCCompiler.c.obj", ...) failed.
+make (e=2): A rendszer nem talßlja a megadott fßjlt.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_97b3a.dir\build.make:84: CMakeFiles/cmTC_97b3a.dir/testCCompiler.c.obj] Error 2
+mingw32-make.exe[1]: Leaving directory 'D:/EGYETEM/II. FÚlÚv/Feladatok/DSA_MiklosNandor_AUT_C/lab2/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:140: cmTC_97b3a/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: D:/EGYETEM/II. Félév/Feladatok/DSA_MiklosNandor_AUT_C/lab2/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/EGYETEM/CodeBlocks/MinGW/bin/mingw32-make.exe cmTC_3f2ce/fast && D:/EGYETEM/CodeBlocks/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_3f2ce.dir\build.make CMakeFiles/cmTC_3f2ce.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/EGYETEM/II. FÚlÚv/Feladatok/DSA_MiklosNandor_AUT_C/lab2/cmake-build-debug/CMakeFiles/CMakeTmp'
+process_begin: CreateProcess(NULL, "D:\EGYETEM\II. F├ęl├ęv\adatsz ├ęs\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E cmake_echo_color --switch= "--progress-dir=D:\EGYETEM\II. F├ęl├ęv\Feladatok\DSA_MiklosNandor_AUT_C\lab2\cmake-build-debug\CMakeFiles\CMakeTmp\CMakeFiles" --progress-num=1 "Building C object CMakeFiles/cmTC_3f2ce.dir/testCCompiler.c.obj", ...) failed.
+make (e=2): A rendszer nem talßlja a megadott fßjlt.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_3f2ce.dir\build.make:84: CMakeFiles/cmTC_3f2ce.dir/testCCompiler.c.obj] Error 2
+mingw32-make.exe[1]: Leaving directory 'D:/EGYETEM/II. FÚlÚv/Feladatok/DSA_MiklosNandor_AUT_C/lab2/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:140: cmTC_3f2ce/fast] Error 2
+
+
+
